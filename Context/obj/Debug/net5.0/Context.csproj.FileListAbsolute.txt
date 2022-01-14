@@ -1,0 +1,15 @@
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\obj\Debug\net5.0\Context.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\obj\Debug\net5.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\obj\Debug\net5.0\Context.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\obj\Debug\net5.0\Context.AssemblyInfo.cs
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\obj\Debug\net5.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\bin\Debug\net5.0\Context.deps.json
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\bin\Debug\net5.0\Context.dll
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\bin\Debug\net5.0\ref\Context.dll
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\bin\Debug\net5.0\Context.pdb
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\obj\Debug\net5.0\Context.dll
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\obj\Debug\net5.0\ref\Context.dll
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\obj\Debug\net5.0\Context.pdb
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\bin\Debug\net5.0\Entities.dll
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\bin\Debug\net5.0\Entities.pdb
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Context\obj\Debug\net5.0\Context.csproj.CopyComplete

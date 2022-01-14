@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "Entities"
+		},
+		{
+			"path": "Context"
+		},
+		{
+			"path": "webapi"
+		},
+		{
+			"path": "Blazor"
+		},
+		{
+			"path": "MVC"
+		},
+		{
+			"path": "NewAngular"
+		}
+	],
+	"settings": {}
+}

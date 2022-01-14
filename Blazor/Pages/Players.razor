@@ -1,0 +1,75 @@
+@page "/Players"
+@inject HttpClient Http
+@using System;
+@using System.Collections.Generic;
+@using System.Diagnostics;
+@using System.Linq;
+@using System.Threading.Tasks;
+@using Microsoft.Extensions.Logging;
+@using honsProject.Shared;
+@using System.Net.Http;
+@using System.Net.Http.Headers;
+@using Newtonsoft.Json;
+
+
+
+
+<h3> Glasgow Rocks Wheelchair basketball Players</h3>
+
+@if (players == null)
+{
+   <p>....loading</p>
+}
+else
+{
+
+   <table class="table table-stripped">
+      <thead>
+         <tr>
+            <th>Player ID</th>
+            <th>First Name</th>
+            <th>Surname</th>
+            <th>Age</th>
+         </tr>
+      </thead>
+      <tbody>
+          @foreach (var p in players)
+   {
+      <tr>
+         <td>@p.PlayerID</td>
+         <td>@p.FirstName</td>
+         <td>@p.LastName</td>
+         <td>@p.Age</td>
+       </tr>
+   }
+         
+      </tbody>
+
+   </table>
+  
+}
+   
+  
+ 
+   
+
+@code {
+
+
+
+       Player[] players;
+
+       protected override async Task OnInitializedAsync()
+     {
+        await loadPlayers();
+
+      }
+
+       protected async Task loadPlayers()
+       {
+          players=await Http.GetFromJsonAsync<Player[]>("https://localhost:5001/Players");
+
+       }
+
+
+}
