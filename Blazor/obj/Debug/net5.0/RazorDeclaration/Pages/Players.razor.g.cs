@@ -150,7 +150,7 @@ using Newtonsoft.Json;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 56 "C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\Pages\Players.razor"
+#line 57 "C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\Pages\Players.razor"
        
 
 
