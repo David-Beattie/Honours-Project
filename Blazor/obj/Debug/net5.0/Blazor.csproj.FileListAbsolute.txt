@@ -1057,7 +1057,6 @@ C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\Raz
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
-C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\Blazor.RazorComponent.output.cache
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\RazorDeclaration\Blazor.dll
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\Blazor.TagHelpers.input.cache
@@ -1071,7 +1070,6 @@ C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\Raz
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
-C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\build-gz\Mx7hugp5.gz
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\build-gz\4CZKXaGn.gz
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\build-gz\pYg7EQRT.gz
@@ -1272,7 +1270,6 @@ C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\bui
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\staticwebassets\Blazor.StaticWebAssets.Manifest.cache
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\staticwebassets\Blazor.StaticWebAssets.xml
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\scopedcss\bundle\Blazor.styles.css
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\scopedcss\projectbundle\Blazor.bundle.scp.css
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\Blazor.RazorTargetAssemblyInfo.cache
@@ -1280,3 +1277,6 @@ C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\Bla
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\Blazor.dll
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\ref\Blazor.dll
 C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\Blazor.pdb
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\David\OneDrive\Desktop\Hons project\Project\Blazor\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
